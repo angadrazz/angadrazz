@@ -30,9 +30,8 @@ I decided to continue my work and study in the fields of Software product develo
 
 Portfolio Website: https://angadrazz.github.io/sgtbimit_balvinder_angad_information/index.html
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angadrazz&show_icons=true&locale=en&layout=compact" alt="angadrazz" /></p>
-<br>
-<h1><p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=angadrazz&show_icons=true" alt="angadrazz" /></p></h1><br><br>
-<img align-"center" src="https://github-readme-streak-stats.herokuapp.com?user=angadrazz&" alt="angadrazz"/>
+<h1><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angadrazz&show_icons=true&locale=en&layout=compact" alt="angadrazz" /></p></h1>
+<h1><p>&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=angadrazz&show_icons=true" alt="angadrazz" /></p></h1>
+<h1><img align-"center" src="https://github-readme-streak-stats.herokuapp.com?user=angadrazz&" alt="angadrazz"/></h1>
 
 - "Be fearless🦁 in the pursuit of what sets your soul on fire!⚡"
