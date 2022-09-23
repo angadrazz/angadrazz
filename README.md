@@ -28,6 +28,6 @@ I decided to continue my work and study in the fields of Software product develo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/angad_mandal_2/)
 
 
-Portfolio Website: https://angadmadhepura.github.io/sgtbimit_balvinder_angad_information/index.html
+Portfolio Website: https://angadrazz.github.io/sgtbimit_balvinder_angad_information/index.html
 
 - "Be fearless🦁 in the pursuit of what sets your soul on fire!⚡"
