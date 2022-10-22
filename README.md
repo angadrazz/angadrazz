@@ -4,13 +4,11 @@
 🐺🎃  𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙰𝚗𝚐𝚊𝚍 𝙺𝚞𝚖𝚊𝚛👨🏻, 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛👨🏻‍💻 𝚑𝚊𝚒𝚕𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝙸𝚗𝚍𝚒𝚊!🇮🇳 (𝙿𝚛𝚎𝚏𝚎𝚛𝚜 𝚞𝚜𝚒𝚗𝚐 𝚗𝚊𝚖𝚎: 𝚝𝚎𝚌𝚑𝚌𝚘𝚖𝚙𝚊𝚗𝚢). 𝙸'𝚖 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚌𝚛𝚊𝚟𝚒𝚗𝚐 𝚊𝚗𝚍 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝, 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋, 𝚊𝚗𝚍 𝙼𝚞𝚕𝚝𝚒𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖 𝙷𝚢𝚋𝚛𝚒𝚍 𝙼𝚘𝚋𝚒𝚕𝚎 𝙰𝚙𝚙 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚕𝚠𝚊𝚢𝚜 𝚛𝚎𝚊𝚍𝚢 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚊𝚗𝚍 𝚊𝚍𝚘𝚙𝚝 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚝 𝚠𝚘𝚛𝚔.  ♝🍓
 
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
-![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using React.js, Angular 10, Ionic 4 and IO & Network-intensive Node.js backend services and APIs with other Javascript related technologies. I'm currently programming in & as a MEAN & MERN Stack developer with the latest Angular, React, Node, Express and MongoDB and studying and exploring Machine Learning along with Deep Learning in my spare time. Check out my repositories here.
 
