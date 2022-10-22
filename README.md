@@ -9,6 +9,8 @@
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![image](https://img.shields.io/badge/MongoDB-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![image](https://img.shields.io/badge/Express-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=green)
+
 
 Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using React.js, Angular 10, Ionic 4 and IO & Network-intensive Node.js backend services and APIs with other Javascript related technologies. I'm currently programming in & as a MEAN & MERN Stack developer with the latest Angular, React, Node, Express and MongoDB and studying and exploring Machine Learning along with Deep Learning in my spare time. Check out my repositories here.
 
