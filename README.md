@@ -12,13 +12,13 @@
 ![image](https://img.shields.io/badge/Express-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=green)
 
 
-Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using React.js, Angular 10, Ionic 4 and IO & Network-intensive Node.js backend services and APIs with other Javascript related technologies. I'm currently programming in & as a MEAN & MERN Stack developer with the latest Angular, React, Node, Express and MongoDB and studying and exploring Machine Learning along with Deep Learning in my spare time. Check out my repositories here.
+Proficient in developing rich UI, high volume, and low latency cross-platform Web and Mobile applications using React.js, Ionic 4 and IO & Network-intensive Node.js backend services and APIs with other Javascript related technologies. I'm currently programming in & as a MERN Stack developer with the latest React, Node, Express and MongoDB and studying and exploring Full stack mern developer along with Deep Learning in my spare time. Check out my repositories here.
 
 𝘔𝘢𝘯𝘺 𝘮𝘰𝘳𝘦 𝘈𝘸𝘦𝘴𝘰𝘮𝘦 𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘴 𝘤𝘰𝘮𝘪𝘯𝘨 𝘴𝘰𝘰𝘯..
 
 I decided to continue my work and study in the fields of Software product development in Computer Science. I wish to help the world, the common people with my technical skills and inventions. It's my all-time dream to become a visionary leader, an orator, and a philanthropist.
 
-#javascript #reactjs #angular #nodejs #typescript #machinelearning #deeplearning #ionic #mobile #android #ios #technology #writer #speaker
+#javascript #reactjs #nodejs #mongodb  #deeplearning #ionic #mobile #android #technology #writer #speaker
 
 - 📫 How to reach me:- 
 
